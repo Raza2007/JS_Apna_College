@@ -1,0 +1,25 @@
+.box{
+    background-color: grey;
+    color: black;
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    border: 1px solid black;
+    margin: 5px;
+   text-decoration: dotted;
+   color:black;
+   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body{
+    background-color: blanchedalmond;
+    color:darkcyan
+}
+
+
+
+
+
+
+
+

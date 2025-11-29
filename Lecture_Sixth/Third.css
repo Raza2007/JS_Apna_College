@@ -1,0 +1,49 @@
+
+
+
+
+
+
+
+
+
+
+
+body{
+    background-color: dimgray;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+h1{
+    background-color: grey;
+    color: black;
+    text-transform: lowercase;
+    text-align: center;
+}
+p{
+    background-color:dimgrey;
+    color:black;
+}
+
+button{
+    background-color: black;
+    color: aqua;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
